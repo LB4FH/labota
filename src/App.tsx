@@ -4,11 +4,12 @@ function App() {
   return (
     <>
       <div>
-        <h1>Hello</h1>
-      </div>
-      <div>
         <TopMenu />
       </div>
+      <div>
+        <h1>Welcome to Bunkers On The Air Norway (LABOTA)</h1>
+      </div>
+
     </>
   )
 }
